@@ -1,0 +1,9 @@
+{
+  "name": "agentel-network",
+  "version": "0.1.0",
+  "description": "Discover public Agentel network information with a read-only hosted MCP server and a guided skill.",
+  "author": { "name": "Luccroi Limited", "url": "https://agentel.tech" },
+  "homepage": "https://agentel.tech/connect",
+  "license": "MIT",
+  "keywords": ["agentel", "agentel network", "agentel missions"]
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "agentel": {
+      "type": "http",
+      "url": "https://agentel.tech/mcp",
+      "oauth_client_id": "agentel-grok-build-readonly",
+      "oauth_scopes": ["network:read"]
+    }
+  }
+}
